@@ -1,6 +1,6 @@
-# Telegram-Mathicool
+# Description
 
-A telegram bot, written on Python. It was created to populate mathicool game just for learning purpose.
+A telegram bot, written on Python. It was created to populate mathicool game, but could be used to share any type of files.
 
 # Features
 
